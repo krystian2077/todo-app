@@ -1,4 +1,3 @@
-listen music
 play the game
 clean the room
 read the book
